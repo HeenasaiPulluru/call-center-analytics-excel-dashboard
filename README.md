@@ -97,7 +97,7 @@ The dataset contains **1000 call records** with the following fields:
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots here after uploading images)
+
 
 ![Dashboard](dashboard.png)
 
@@ -115,4 +115,4 @@ This dashboard helps stakeholders:
 
 ## 👨‍💻 Author
 **Heenasai Pulluru**  
-Data Analyst | AWS & DevOps Enthusiast  
+ 
