@@ -97,7 +97,7 @@ The dataset contains **1000 call records** with the following fields:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
